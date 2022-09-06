@@ -1,0 +1,4 @@
+file3.txt isi
+
+perubahan pada file3.txt
+seharusnya ada paragraf baru

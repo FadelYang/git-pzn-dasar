@@ -4,3 +4,4 @@ perubahan pada file3.txt
 seharusnya ada paragraf baru
 
 merubah file3.txt test
+merubah file3.txt test

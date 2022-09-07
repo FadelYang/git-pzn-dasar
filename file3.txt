@@ -5,3 +5,4 @@ seharusnya ada paragraf baru
 
 merubah file3.txt
 file file
+merubah file3.txt test

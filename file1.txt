@@ -5,3 +5,5 @@ ubah file 2  lalu commit
 berubah
 
 berubah di branch satu
+berubah di branch2
+

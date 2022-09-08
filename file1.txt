@@ -7,3 +7,4 @@ berubah
 berubah di branch satu
 berubah di branch2
 
+dirubah di feature/c

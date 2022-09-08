@@ -4,3 +4,5 @@ merubah file1 dan file2
 ubah file2.txt lalu commit
 
 file2.txt berubah
+
+berubah di branch satu
